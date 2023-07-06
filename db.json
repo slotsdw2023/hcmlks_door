@@ -1,16 +1,13 @@
 {
   "AB": {
     "A": {
-      "U": "1",
-      "onoff": 0,
+      "U": "https://hcm888.com/?id=99638519",
+      "onoff": 1,
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "TR",
-        "BR",
         "HK",
-        "PH",
-        "KR"
+        "VN"
       ],
       "Event": [
         "adj_complete_registration",
